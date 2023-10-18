@@ -1,0 +1,22 @@
+- category: Blogs
+  items:
+    - title: Blogs 1
+      url: https://wedevnesia.blogspot.com
+      icon: ri:film-fill # Icons are optional.
+      tag: New
+
+    - title: Blogs 2
+      url: https://greyfs.com
+      icon: simple-icons:googlenews
+
+- category: github
+  items:
+    - title: Github Organisasi CwriAi23
+      url: https://cariai23.github.io
+
+- category: Works
+  items:
+    - title: News
+      url: https://nov7n.com
+      icon: clarity:language-solid
+      tag: Blogs
